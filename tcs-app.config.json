@@ -1,0 +1,8 @@
+{
+  "repoName": "TC-S-Network-UIM-Protocol",
+  "slug": "uim-protocol",
+  "title": "UIM Protocol",
+  "role": "Unified Intelligence Mesh handshake and JSON-LD endpoints.",
+  "kind": "service",
+  "createdAt": "2025-11-22T17:30:17.991Z"
+}
